@@ -1,0 +1,3 @@
+[submodule "movedo"]
+	path = movedo
+	url = https://github.com/movedo/MoVeDo.git
